@@ -1,0 +1,6 @@
+1.A software is  considered open source if it's  source code is made available to the public ,allowing anyone to view, use, modify, and distribute the code under specific licensing terms .
+2a.Learning and skill development
+b. Contributing to open source projects 
+c. Building Reputation and career opportunities
+d. solving personal problems or shared problems
+e. philosophical beliefs or altruism
